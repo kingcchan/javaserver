@@ -1,0 +1,23 @@
+javaserver
+==========
+
+a simple java class for an httpserver for static files
+
+
+Requirements:
+
+Java, JRE, JUNIT (junit.org)
+
+Put junit.jar in $CLASSPATH
+
+
+Compile:
+
+javac Server.java ServerTest.java TestRunner.java
+
+
+Run:
+
+java TestRunner
+
+
